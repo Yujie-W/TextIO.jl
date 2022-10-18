@@ -1,0 +1,14 @@
+name = "TextIO"
+uuid = "52be8cd1-7bc6-40f3-9b52-aa7544d4b77d"
+authors = ["Yujie Wang <jesiner@gmail.com>"]
+version = "0.1.0"
+
+[deps]
+CSV = "336ed68f-0bac-5ca0-87d4-7b16caf5d00b"
+DataFrames = "a93c6f00-e57d-5684-b7b6-d8193f3e46c0"
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+[compat]
+CSV = "0.10.4"
+DataFrames = "1.4.1"
+julia = "1.6"
